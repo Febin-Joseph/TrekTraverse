@@ -39,7 +39,7 @@ const Hero = () => {
                     </div>
 
                     <p className='bold-16 lg:bold-20 text-blue-70'>
-                        198 K
+                        198K
                         <span className='regular-16 lg:regular-20 ml-1 underline'>Reviews</span>
                     </p>
                 </div>
